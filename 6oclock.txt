@@ -1,0 +1,62 @@
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="MUTV (UK)" tvg-logo="http://epg.justco.cc/guide/logos/gb/MUTV.uk.png" group-title="ACROSS D POND",MUTV (UK)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/440197
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="SMITHSONIAN CHANNEL (US)" tvg-logo="https://static.wixstatic.com/media/08f997_bd1ee973a5274c9eb9550b305865aa6a.jpg" group-title="USA",SMITHSONIAN CHANNEL (US)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25026
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="BOX NATION (UK)" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/0c/80/c1/0c80c1f4-561b-562c-96a6-20cb46ddc142/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg" group-title="INT'L SPORTS",BOX NATION (UK)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20826
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="https://2.bp.blogspot.com/-lv330Pv-oRg/Wz-eQ18nEpI/AAAAAAAAHpg/LAKUm_eHEmUeS9eY2JLXS-KwIax_WC4kwCLcBGAs/s1600/t%25C3%25A9l%25C3%25A9chargement.png" group-title="INT'L SPORTS",SKY SPORTS ARENA
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20827
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="SY SPORTS F1" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo-small.png" group-title="INT'L SPORTS",SY SPORTS F1
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20828
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="SY  SPORTS FOOTBALL" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj7Nr5K088btemtILtO-Hap8JhvaeahcRGjjBtJrQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="INT'L SPORTS",SY  SPORTS FOOTBALL
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20829
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="SY SPORTS MIX" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/5/5995.1507600470.png" group-title="INT'L SPORTS",SY SPORTS MIX
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20830
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="SY SPORTS PREM LEAG" tvg-logo="https://archive.org/services/img/SkySportsPremierLeague_201708" group-title="INT'L SPORTS",SY SPORTS PREM LEAG
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20831
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="SY SPORTS GOLF" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1110.1507600318.png" group-title="INT'L SPORTS",SY SPORTS GOLF
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20833
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="SY SPORTS MAIN EVENT" tvg-logo="https://lh3.googleusercontent.com/proxy/DQRAoltWBfwOZLbMyr5lrrLWx9AFu-WJoX1g5AD56k4laXMDCJijbqACOl8_dg-NANZneVtIoZdDeN7UsfcxDb3RWo4484o-ILWeQK_bmsJmRR066QVU7hYfzH4fv2IJX7amcaQ-BkTt" group-title="INT'L SPORTS",SY SPORTS MAIN EVENT
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20832
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SY SPORTS CRICKET" tvg-logo="https://e0.365dm.com/20/04/192x192/skysports-sky-sports-cricket_4967063.jpg?20200411112851" group-title="INT'L SPORTS",SY SPORTS CRICKET
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20834
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="SY SPORTS ACTION" tvg-logo="https://archive.org/services/img/SkySportsAction_201708" group-title="INT'L SPORTS",SY SPORTS ACTION
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20835
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="SY SPORTS NEWS (UK)" tvg-logo="https://cdn6.f-cdn.com/contestentries/1436144/30636289/5bcf4c34206bd_thumb900.jpg" group-title="INT'L SPORTS",SY SPORTS NEWS (UK)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/24302
+#EXTINF:-1 tvg-id="" tvg-name="FLOW SPORTS 1 (Caribbean)" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_eHz1UfFWLK7ZJ_HfYIvAn8x46IUHI2Po-tA=s900-c-k-c0xffffffff-no-rj-mo" group-title="INT'L SPORTS",FLOW SPORTS 1 (Caribbean)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28139
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="PREMIER SPORTS 1" tvg-logo="https://i2.wp.com/weplay.co/wp-content/uploads/2018/11/Premier-Sports.png?fit=960%2C960&ssl=1" group-title="INT'L SPORTS",PREMIER SPORTS 1
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25803
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="PREMIER SPORTS 2" tvg-logo="https://i2.wp.com/weplay.co/wp-content/uploads/2018/11/Premier-Sports.png?fit=960%2C960&ssl=1" group-title="INT'L SPORTS",PREMIER SPORTS 2
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25804
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="RACING UK" tvg-logo="https://cachedimages.podchaser.com/300x300/aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvZGNhc3RzLmltYWdlcy5wb2RjaGFzZXIuY29tLzdmNGY4Y2Y3YzMyNzVhYmU4YTkxOGJjODA2ODg1MDM5X21lZGl1bS5naWY%3D/aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc%3D" group-title="INT'L SPORTS",RACING UK
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/20812
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="FOX DEPORTES" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-480x480.jpg" group-title="INT'L SPORTS",FOX DEPORTES
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25341
+#EXTINF:-1 tvg-id="53169" tvg-name="ESPN  (AU)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ESP/ESP_290x170.png" group-title="INT'L SPORTS",ESPN  (AU)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28393
+#EXTINF:-1 tvg-id="68330" tvg-name="RACING TV (AU)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/RTV/RTV_290x170.png" group-title="INT'L SPORTS",RACING TV (AU)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28394
+#EXTINF:-1 tvg-id="53207" tvg-name="ESPN2 (AU)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ES2/ES2_290x170.png" group-title="INT'L SPORTS",ESPN2 (AU)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28398
+#EXTINF:-1 tvg-id="53208" tvg-name="FOX CRICKET (AU)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="INT'L SPORTS",FOX CRICKET (AU)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28399
+#EXTINF:-1 tvg-id="53210" tvg-name="FOX SPORTS 502 (AU)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SP2/SP2_290x170.png" group-title="INT'L SPORTS",FOX SPORTS 502 (AU)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28400
+#EXTINF:-1 tvg-id="53216" tvg-name="FOX SPORTS 507 (AU)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/FSS_290x170.png" group-title="INT'L SPORTS",FOX SPORTS 507 (AU)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28401
+#EXTINF:-1 tvg-id="53215" tvg-name="FOX SPORTS 506 (AU)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/FSP_290x170.png" group-title="INT'L SPORTS",FOX SPORTS 506 (AU)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28402
+#EXTINF:-1 tvg-id="53214" tvg-name="FOX SPORTS 505 (AU)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/FSP_290x170.png" group-title="INT'L SPORTS",FOX SPORTS 505 (AU)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28403
+#EXTINF:-1 tvg-id="53212" tvg-name="FOX SPORTS 504 (AU)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FAF/FAF_290x170.png" group-title="INT'L SPORTS",FOX SPORTS 504 (AU)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28404
+#EXTINF:-1 tvg-id="53211" tvg-name="FOX SPORTS 503 (AU)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS3/FS3_290x170.png" group-title="INT'L SPORTS",FOX SPORTS 503 (AU)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28405
+#EXTINF:-1 tvg-id="PDC1.UK" tvg-name="PDC DARTS" tvg-logo="https://pbs.twimg.com/media/DMaVY1wX4AESahD.png" group-title="INT'L SPORTS",PDC DARTS
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25731
+#EXTINF:-1 tvg-id="PDC2.UK" tvg-name="PDC DARTS 2" tvg-logo="https://pbs.twimg.com/media/DMaVY1wX4AESahD.png" group-title="INT'L SPORTS",PDC DARTS 2
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/25732
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="SY SPORTS RACES (UK)" tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png?format=1500w" group-title="INT'L SPORTS",SY SPORTS RACES (UK)
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/24303
